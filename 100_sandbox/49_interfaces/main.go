@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/GoesToEleven/golang-web-dev/000_temp/49_interfaces/species"
-	_ "github.com/GoesToEleven/golang-web-dev/000_getting_started/49_interfaces/species"
+	_ "github.com/GoesToEleven/golang-web-dev/100_sandbox/49_interfaces/species"
 )
 
 type person struct {
